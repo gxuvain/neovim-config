@@ -1,0 +1,40 @@
+{
+  "plugins": {
+    "black-metal-theme-neovim": {
+      "rev": "6d0207871387077f40d5396ab1ae90520e688d36",
+      "src": "https://github.com/metalelf0/black-metal-theme-neovim"
+    },
+    "blink.cmp": {
+      "rev": "b650e976a927be6b46487a0a610b75af111376c5",
+      "src": "https://github.com/Saghen/blink.cmp"
+    },
+    "conform.nvim": {
+      "rev": "e969e302bced7ffb9a0a0323629f31feb0ca35a6",
+      "src": "https://github.com/stevearc/conform.nvim"
+    },
+    "mason-lspconfig.nvim": {
+      "rev": "6c4830e37743b060d13c9269394176aea6a0fbc8",
+      "src": "https://github.com/mason-org/mason-lspconfig.nvim"
+    },
+    "mason.nvim": {
+      "rev": "44d1e90e1f66e077268191e3ee9d2ac97cc18e65",
+      "src": "https://github.com/mason-org/mason.nvim"
+    },
+    "mini.pick": {
+      "rev": "8521fe21df86e08d9e4b3c3f3a7d50e47954e1af",
+      "src": "https://github.com/echasnovski/mini.pick"
+    },
+    "nvim-autopairs": {
+      "rev": "59bce2eef357189c3305e25bc6dd2d138c1683f5",
+      "src": "https://github.com/windwp/nvim-autopairs"
+    },
+    "nvim-lspconfig": {
+      "rev": "ab5139c99df944479e5a26495a37840fcbb1d512",
+      "src": "https://github.com/neovim/nvim-lspconfig"
+    },
+    "oil.nvim": {
+      "rev": "0fcc83805ad11cf714a949c98c605ed717e0b83e",
+      "src": "https://github.com/stevearc/oil.nvim"
+    }
+  }
+}
